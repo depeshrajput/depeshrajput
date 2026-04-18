@@ -81,19 +81,6 @@ class Depesh:
 
 <div align="center">
 
-<!-- FIX: Using gh-stats.vercel.app mirror — more reliable than the main vercel instance -->
-<img height="180" src="https://gh-stats.vercel.app/api?username=depeshrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" 
-     onerror="this.src='https://github-readme-stats.vercel.app/api?username=depeshrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117'" />
-&nbsp;
-<img height="180" src="https://gh-stats.vercel.app/api/top-langs/?username=depeshrajput&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"
-     onerror="this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=depeshrajput&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117'" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <!-- FIX: streak-stats.demolab.com — the most stable streak service -->
 <img width="65%" src="https://streak-stats.demolab.com?user=depeshrajput&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117&stroke=30363d" />
 

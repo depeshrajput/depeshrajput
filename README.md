@@ -77,17 +77,6 @@ class Depesh:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- FIX: streak-stats.demolab.com — the most stable streak service -->
-<img width="65%" src="https://streak-stats.demolab.com?user=depeshrajput&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117&stroke=30363d" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
